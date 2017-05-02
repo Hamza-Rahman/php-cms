@@ -1,0 +1,59 @@
+.main-sidebar{
+	background-color:#f2f2f2;
+	padding-bottom:8%;
+	padding-left:8%;
+	padding-right:8%;
+
+}
+
+.sidebar h4{
+	padding-top:5%;
+}
+
+.recent-text{
+	
+}
+.recent-image{
+	float:right;
+	margin-top:-10%;	
+}
+
+.recent-image img{
+	
+}
+
+input{
+padding-right:8%;
+}
+
+.comment-form .form-group{
+    width: 89%;
+    padding: 5px;
+}
+
+.comment-form input[type='text']{
+    width: 100%;   
+}
+
+.comments{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    overflow: auto;
+    top: 1%;
+}
+.comment-avator img, .user{
+    width: 40px;
+    margin-right: 15px;
+    top: 2%;
+}
+
+.pager li .active_link{
+
+    background: #555 !important;
+    color:#fff;
+}
+
+
+
